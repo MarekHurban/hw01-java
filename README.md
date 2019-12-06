@@ -1,10 +1,6 @@
 Homework assignment no. 1, URL
 ====================================
 
-**Publication date:** 8th October 
-
-**Submission deadline:** 26th October 23:59
-
 General information
 -------------------
 Dealing with URLs can be tedious sometimes. Especially when it comes to distinguishing between them. Consider for example the following URLs.
